@@ -40,4 +40,4 @@ See [contributing](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md) fo
 
 ## License
 
-This project is licensed under the SAM License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under Apache-2.0 - see the [LICENSE](LICENSE) file for details.
